@@ -13,7 +13,7 @@ function init() {
     index = 0;
   }
   
-  if(index === code.length){
+  if(index === code.length-1){
     alert('Hurray')}
   });
 }
